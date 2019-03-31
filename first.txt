@@ -5,3 +5,4 @@ add
 commit
 rm
 status
+diff
